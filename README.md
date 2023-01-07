@@ -15,7 +15,7 @@ Mengenal Perintah-Perintah Dasar GIT:
 1. Installasi Git
    - $ sudo apt install git   
 2. Konfigurasi Awal
-   - $ git config --global user.name "Bagus Adi"
+   - $ git config --global user.name "bagus-git"
    - $ git config --global user.email bagusadisaputra04@gmail.com
    - $ git config --list
 3. Membuat repository di local
